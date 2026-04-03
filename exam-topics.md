@@ -1,26 +1,21 @@
-# AZ-900 Exam Topics
+# Exam Topics
 
-## Cloud Concepts
-Public, Private, Hybrid Cloud
-Benefits of cloud computing
+## 1. Azure Fundamentals
+- Core Azure services
+- Azure pricing, SLA, and lifecycle
+- Azure governance and compliance
 
-## Azure Architecture
-Regions
-Region Pairs
-Availability zones
-Resources & resource groups
-Subscriptions
-Management groups
+## 2. Azure Core Services
+- Cloud concepts
+- Core Azure services
+- Solutions for AI and ML
 
-## Core Services
-Compute
-Networking
-Storage
-Databases
+## 3. Security, Compliance, and Governance
+- Azure security tools
+- Role-based access control
+- Azure policy
 
-## Security & Governance
-Microsoft Entra ID
-RBAC (Role Based Access Control)
-Defender for Cloud
-Cost Management
-Azure Policy
+## 4. Azure Pricing, SLA, and Lifecycle
+- Pricing calculator
+- Service level agreements
+- Azure resource management
