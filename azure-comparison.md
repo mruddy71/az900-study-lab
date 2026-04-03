@@ -1,18 +1,25 @@
-# Azure Service Comparison
+# Azure Comparison
 
-## VM's
-Used for full control of an OS.
-Good when you need traditional server setup.
+## Introduction
+This document serves as a comprehensive guide for comparing various Azure services, their functionalities, and use cases.
 
-## App Services
-Used to host web apps.
-Easier to manage than full VM's.
+## Comparison Categories
+- **Compute Services**: Discusses services like Azure Virtual Machines, App Services, and Azure Functions.
+- **Storage Solutions**: Overview of Blob Storage, File Storage, and Disk Storage.
+- **Networking Services**: Explanation of Azure Virtual Network, Azure Load Balancer, and Azure Application Gateway.
+- **Databases**: A comparison of Azure SQL Database, Cosmos DB, and Azure Database for PostgreSQL.
 
-## Azure Functions
-Used for event-driven tasks
-Good for small pieces of code that run when triggered.
+## Service Comparison Table
+| Service              | Description                                 | Best Use Case                          |
+|----------------------|---------------------------------------------|---------------------------------------|
+| Azure Virtual Machines| Infrastructure as a Service (IaaS)      | Running virtualized workloads         |
+| Azure App Services   | Platform as a Service (PaaS)              | Hosting web apps and APIs            |
+| Azure Functions      | Serverless computing                        | Event-driven applications             |
+| Blob Storage         | Unstructured data storage                   | Storing large binary files           |
+| Azure SQL Database   | Managed relational database service        | Transactional applications            |
+| Cosmos DB           | Globally distributed database service      | Multi-region applications             |
 
-## Storage Types
-Blob Storage: For unstructed data like files & images.
-Disk Storage: For VM disks
-File Storage: Shared file storage.
+## Conclusion
+In conclusion, Azure offers a variety of services tailored to different needs, and understanding these differences is essential for making informed decisions for your cloud strategy.
+
+For further details and documentation on Azure services, visit the [Azure Documentation](https://docs.microsoft.com/en-us/azure/).
